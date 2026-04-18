@@ -1,0 +1,25 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "2.0.0",
+      "download-url": "https://example.com/app-setup.exe",
+      "changelog": "<p>Bug fixes and improvements.</p>",
+      "mandatory-update": false
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "2.0.0",
+      "download-url": "https://example.com/app.dmg",
+      "changelog": "<p>Bug fixes and improvements.</p>",
+      "mandatory-update": false
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "2.0.0",
+      "download-url": "https://example.com/app.AppImage",
+      "changelog": "<p>Bug fixes and improvements.</p>",
+      "mandatory-update": false
+    }
+  }
+}
